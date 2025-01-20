@@ -12,13 +12,13 @@ main:
   #  url: /talks/    
 
   - title: "Teaching"
-    url: /https://space.bilibili.com/3546569022376227?spm_id_from=333.1007.0.0/    
+    url: https://space.bilibili.com/3546569022376227?spm_id_from=333.1007.0.0   
     
   #- title: "Portfolio"
   #  url: /portfolio/
         
   - title: "Blog Posts"
-    url: /https://www.cnblogs.com/QLU-zsh/
+    url: https://www.cnblogs.com/QLU-zsh
     
   #- title: "CV"
   #  url: /cv/
